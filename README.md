@@ -183,13 +183,13 @@ This project taught me that a high accuracy score is a claim to test, not a resu
 
 ## 🔗 Related Link
 
-[LinkedIn Post](https://www.linkedin.com/in/YOUR-POST-LINK)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:share:7529220194313977856/)
 
 ## 👨‍💻 Author
 
 **Omar Shazley**: Data Analyst | Python, Excel, SQL, and healthcare data analytics
 
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)<br>
+💼 [LinkedIn] (https://www.linkedin.com/in/omar-shazley-914a16b1/)<br>
 💻 [GitHub Portfolio](https://github.com/Bromar95)<br>
 📧 Email: [omarshazley@gmail.com](mailto:omarshazley@gmail.com)
 
